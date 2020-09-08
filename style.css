@@ -2,3 +2,18 @@ html, body {
     margin: 0;
     padding: 0;
 }
+.genres {text-align:center;
+        display: flex;
+    flex-wrap: wrap;
+}
+.a {flex-basis:500px;
+    height: 100px;
+    flex-grow: 1;
+    }
+.A {background-color:dodgerblue;}
+.T {background-color:rgb(190, 178, 178); flex-grow:10;}
+.C {background-color: rgb(255, 214, 30);flex-grow:10;}
+.H {background-color: black;color: whitesmoke}
+.D {background-color: darkgrey;}
+.R {background-color: red;}
+
